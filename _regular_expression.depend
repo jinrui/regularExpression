@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1429792270 source:/home/jinrui/coder/project/regularexpression/_regular_expression/main.cpp
+	<iostream>
+	"Regex.h"
+
+1429693622 source:/home/jinrui/coder/project/regularexpression/_regular_expression/Ast.cpp
+	"Ast.h"
+
+1429598166 /home/jinrui/coder/project/regularexpression/_regular_expression/Ast.h
+	<memory>
+	<vector>
+	"Range.h"
+	"Nfa.h"
+
+1424612508 /home/jinrui/coder/project/regularexpression/_regular_expression/Range.h
+
+1429709736 source:/home/jinrui/coder/project/regularexpression/_regular_expression/AstCodeGen.cpp
+	"AstCodeGen.h"
+	<sstream>
+	<set>
+	<vector>
+
+1429691581 /home/jinrui/coder/project/regularexpression/_regular_expression/AstCodeGen.h
+	<stack>
+	<vector>
+	<map>
+	"Ast.h"
+
+1429776189 /home/jinrui/coder/project/regularexpression/_regular_expression/Nfa.h
+	"Range.h"
+	<memory>
+
+1429795119 source:/home/jinrui/coder/project/regularexpression/_regular_expression/Regex.cpp
+	"Regex.h"
+	"Ast.h"
+	"AstCodeGen.h"
+	<algorithm>
+	<iostream>
+
+1429789958 /home/jinrui/coder/project/regularexpression/_regular_expression/Regex.h
+	<string>
+	<vector>
+	<queue>
+	<memory>
+	<set>
+	"Nfa.h"
+
